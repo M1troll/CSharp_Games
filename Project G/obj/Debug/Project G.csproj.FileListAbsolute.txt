@@ -1,0 +1,29 @@
+C:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.exe.config
+C:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.exe
+C:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.pdb
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.csprojAssemblyReference.cache
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Properties.Resources.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.csproj.GenerateResource.cache
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.exe
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.pdb
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Project_G.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.XO.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Sapper.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Tags.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.G2048.resources
+C:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.DialogRestartOrContinue.resources
+D:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.exe.config
+D:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.exe
+D:\Users\orochi\source\repos\Project G\Project G\bin\Debug\Project G.pdb
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.csprojAssemblyReference.cache
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.DialogRestartOrContinue.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Project_G.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.G2048.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Properties.Resources.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Sapper.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.Tags.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project_G.XO.resources
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.csproj.GenerateResource.cache
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.csproj.CoreCompileInputs.cache
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.exe
+D:\Users\orochi\source\repos\Project G\Project G\obj\Debug\Project G.pdb
